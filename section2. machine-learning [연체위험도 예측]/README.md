@@ -1,11 +1,11 @@
 
 
 ## 📝 프로젝트 개요
-박희영님은 게임 회사의 데이터 팀에 합류했습니다. <br>
-주어진 데이터로 인사이트를 얻고 의사결정을 진행하여 "다음 분기에 어떤 게임을 설계해야 할까"라는 고민을 해결해주세요.
+- 은행 마케팅-관리를 위한 고객의 '연체 위험도' 예측 머신러닝 모델 구현 <br>
+- 사용 데이터 : 2만6천여명 고객의 성별, 부동산, 자동차, 가족, 등록기간 등의 정보 
 
 ## 데이터분석 보고서 작성
-> https://docs.google.com/presentation/d/1eFGuL7MZRQXWdkBWgRr3xhbmIN2nGjr8VGWe_jQ_2uk/edit?usp=sharing
+https://docs.google.com/presentation/d/1fRNDxStAOMcYUGpH7WREeybG3wci0K81eMdNQrOQ09I/edit?usp=sharing
 
 ## 새롭게 배운 것
 - 함수를 정의할 때는 return값을 꼭 지정해주어야 한다 <br>
