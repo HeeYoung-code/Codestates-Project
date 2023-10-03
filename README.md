@@ -19,5 +19,5 @@
 - Flask를 통해 모델을 웹서비스로 구축
 - [최종보고서 보러가기](https://drive.google.com/file/d/1cy5E7Ozkd9OJMkcrh7RtLofUuYPIJKDU/view?usp=drive_link)
 
-## Team Project
+## Final Team Project
 - Image Object Detection (YOLO v8)
