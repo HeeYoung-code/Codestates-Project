@@ -1,7 +1,7 @@
 ## Section1 Project
 - 데이터 분석
 - 1980년대부터 쌓아온 비디오 게임 데이터를 바탕으로 다음 분기 게임 기획
-- https://docs.google.com/presentation/d/1eFGuL7MZRQXWdkBWgRr3xhbmIN2nGjr8VGWe_jQ_2uk/edit?usp=drive_link
+- [최종보고서 링크](https://docs.google.com/presentation/d/1eFGuL7MZRQXWdkBWgRr3xhbmIN2nGjr8VGWe_jQ_2uk/edit?usp=drive_link)
 
 ## Section2 Project
 - Machine Learning
